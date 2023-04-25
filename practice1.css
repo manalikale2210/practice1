@@ -1,0 +1,27 @@
+button{
+    color: red;
+    background-color: pink;
+}
+h2{
+    color: navy;
+    background-color: yellowgreen;
+}
+.odd_heading{
+    color: green;
+    background-color: burlywood;
+}
+.even_heading{
+    color: red;
+    
+}
+.demo_p{
+    color: orangered;
+}
+#demo1{
+    color: pink;
+    background-color: brown;
+}
+#demo2{
+    color: yellow;
+    background-color: red;
+}
